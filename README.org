@@ -28,6 +28,9 @@ later version.  See [[file:COPYING][COPYING]].
   
 ** Files to remove from the next release
 
+[This patched version from the Emacsmirror actually already removes
+these files.]
+
 These files are maintained in a separate repository, which you can
 find after the "Homepage:" keyword in the files themselves:
 
