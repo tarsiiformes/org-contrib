@@ -51,6 +51,24 @@ find after the "Homepage:" keyword in the files themselves:
 - org-velocity.el :: something like Notational Velocity for Org
 - ox-rss.el :: RSS 2.0 Back-End for Org Export Engine
 
+These files are now part of Org itself ("again"):
+
+- ob-J
+- ob-abc
+- ob-asymptote
+- ob-coq
+- ob-ebnf
+- ob-hledger
+- ob-io
+- ob-ledger
+- ob-mscgen
+- ob-picolisp
+- ob-shen
+- ob-stan
+- ob-vala
+- ol-man
+- ox-koma-letter.el :: KOMA Scrlttr2 Back-End for Org Export Engine
+
 ** Other files
 *** Org utils
 
